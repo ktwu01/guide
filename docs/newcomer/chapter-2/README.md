@@ -27,3 +27,4 @@ next: /newcomer/chapter-2/necessary-steps
       https://parking.utexas.edu/transportation/shuttles
       校车时刻表和路线图
 - [x] 了解校园，查看地图和楼名缩写：http://www.utexas.edu/maps
+- [ ] 这里提供给大家一个homepage: [ut01](https://ut01.github.io/)，里面是常用的内容，可以直接收藏或者设为浏览器主页。
