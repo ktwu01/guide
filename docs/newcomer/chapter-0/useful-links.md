@@ -6,3 +6,4 @@
 - After-Admission Checklist: https://admissions.utexas.edu/enroll/freshman-checklist
 - Graduate School New Student Information Page: https://gradschool.utexas.edu/admissions/after-your-decision
 - Registration Information Sheet （非常重要，包括选课时间，阻止选课的 bar——这些 bar 需要完成一些程序才能消除，具体事宜可和 advisor 咨询）: https://utdirect.utexas.edu/registrar/ris.WBX
+- [ut01 Homepage](https://ut01.github.io/)，由UT学生自建，里面是UT同学们常用的内容，可以收藏，设为浏览器主页，也欢迎提意见和编辑。
